@@ -3,3 +3,9 @@ def shoot():
 
 def spray():
     print("Psshhhhhhh!")
+
+def throw(thing):
+    print("Throwing %s!" %(thing,))
+
+def kick(thing):
+    print("Kicking %s!" %(thing,))
