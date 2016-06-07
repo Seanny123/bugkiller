@@ -13,5 +13,5 @@ class TestBasic(object):
 def test_kick(thing):
     kk.kick(thing)
 
-def test_kick(thing):
+def test_throw(thing):
     kk.throw(thing)
